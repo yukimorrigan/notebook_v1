@@ -1,0 +1,9 @@
+.footer-container p {
+	margin-bottom: 0px;
+}
+
+.red-ul {
+    list-style-type: none;
+    color: #ff0101;
+    padding-left: 15px;
+}
